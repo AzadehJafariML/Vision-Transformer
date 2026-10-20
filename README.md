@@ -1,5 +1,10 @@
 # 3D Vision Transformer for Functional Brain Maps
 
+ <p align="center">
+  <img src="ViT.png" alt="3D Vision Transformer (ViT3D) architecture" width="100%">
+</p> 
+
+
 A from-scratch PyTorch implementation of a 3D Vision Transformer (ViT3D) for four-class classification of functional brain maps associated with **Trill, Phee, Chatter, and Twitter** stimuli.
 
 
